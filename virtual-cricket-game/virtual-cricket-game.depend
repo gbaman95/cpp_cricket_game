@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1596776063 source:c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\game.cpp
+	"game.h"
+
+1596694379 c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\game.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<limits>
+	"team.h"
+
+1596436283 c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\team.h
+	<vector>
+	"player.h"
+
+1596602397 c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\player.h
+	<string>
+
+1596176049 source:c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\player.cpp
+	"player.h"
+
+1596177495 source:c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\team.cpp
+	"team.h"
+
+1596692633 source:c:\users\gourab\desktop\internshala c c++\project\virtual-cricket-game\virtual-cricket-game.cpp
+	<iostream>
+	"game.h"
+
